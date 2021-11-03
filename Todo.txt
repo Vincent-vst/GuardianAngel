@@ -1,0 +1,4 @@
+- make it understand --help as -h
+- Handle errors in case of improper arguments 
+- maybe rename the file before remove, so that it does not overwrite another existing file
+- make it understand no arguments as : rm_classique
